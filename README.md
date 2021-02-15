@@ -19,10 +19,9 @@
 |:-----:|
 |<img src="https://raw.githubusercontent.com/dongy094/Basic_js/master/Basic_js/images/writename.gif" height="500" width="550px">
 
-|사용자 닉네임 입력하기|
+|배경화면 랜덤으로 바꾸기|
 |:-----:|
-|<img src="https://raw.githubusercontent.com/dongy094/Basic_js/master/Basic_js/images/writetodo.gif" height="500" width="550px">
-
+|<img src="https://raw.githubusercontent.com/dongy094/Basic_js/master/Basic_js/images/bgchange.gif" height="500" width="550px">
 
 |ToDoList 작성 및 삭제하기|
 |:-----:|
