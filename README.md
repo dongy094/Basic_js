@@ -1,6 +1,6 @@
 # JavaScript
 ### 🔘 프로젝트 목적
-    ✔ JavaScript를 활용하여 뭐든 만들어 보기
+-JavaScript를 활용하여 뭐든 만들어 보기
 </br>
 
 ### 🔘 프로젝트 소개 및 기능
